@@ -1,4 +1,4 @@
-name: cpbs_7602
+name: cpbs7602
 channels:
   - conda-forge
   - defaults
