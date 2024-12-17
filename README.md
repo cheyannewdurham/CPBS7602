@@ -5,7 +5,7 @@ For assignment01:
 - data was processed outside of the local machine and a pickle file was generated and imported. Local machine has an intel i7 (12th gen) with 16 GB of RAM and a clean Ubuntu Nobel (v22) with surface pro 9 kernel (v6.9) distribution install. 
 - environment file is shared across the repository (see cpbs7602.yml) and was installed via terminal after miniconda3 install.
         conda env create --file {path_to_cpbs7602_yaml}
-For conveinence here is the content of the environment file:
+For conveinence, the contents of the environment file are listed at the bottom of the README. 
 
 ---
 For assignment03: 
