@@ -8,6 +8,11 @@ For assignment01:
 For conveinence here is the content of the environment file:
 
 ---
+For assignment03: 
+- process this code in the jupyter notebook using the tpm_scaled data, the sample_key.csv, and the subject_phenotypes.txt files.
+- as with assignment01, the environment file should have all packages needed.
+- process the dimensionality reduction, then the tissue model, then the age model.
+---
 
 name: cpbs7602
 channels:
