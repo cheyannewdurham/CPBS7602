@@ -32,3 +32,4 @@ dependencies:
   - scikit-learn=1.5.*
   - statsmodels=0.14.*
   - tqdm=4.*
+  - umap-learn
